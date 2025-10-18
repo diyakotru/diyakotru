@@ -1,59 +1,38 @@
-# Hi — I'm Diya Kotru 👋  
-Pronouns: she
-
-A developer who primarily works with Java and contributes to open-source projects. She focuses on writing clear, maintainable code, improving developer experience, and building reliable systems.
+<h1 align="center">👋 Hi, I'm Diya!</h1>
+<h3 align="center">🚀 Aspiring Developer | AI & Web Enthusiast | Lifelong Learner</h3>
 
 ---
 
-## 💻 Languages & Tools
-- Primary: Java
-- Also works with: Kotlin, Python, JavaScript
-- Frameworks & libraries (examples): Spring Boot, Jakarta EE (update to match your stack)
-- Build & tooling: Maven, Gradle, Git
-- Testing & quality: JUnit, Mockito, Checkstyle
-- Containers & CI: Docker, GitHub Actions
+### 🌸 About Me  
+💡 Passionate about technology, problem-solving, and turning ideas into reality.  
+🎯 Currently exploring the world of **AI + Web Development**.  
+🌱 Learning **DSA**,**Web Development**, and ** various frameworks**.  
+⚡ I love blending creativity with logic to build meaningful projects.
 
 ---
 
-## 🔭 Open-source
-- Active open-source contributor — enjoys collaborating on community projects, reviewing PRs, and improving documentation.
-- Prefers readable, well-tested code and tooling that helps teams move faster.
+### 💻 My Tech Stack  
+**Languages:** Java|Python| JavaScript|C  
+**Frontend:** HTML | CSS | React | Tailwind CSS  
+**Backend:** Node.js | Express.js   
+**Database:** MongoDB | MySQL  
+**Others:** Git | VS Code | GitHub
 
 ---
 
-## 📦 Projects
-No featured projects listed here right now.
-- Tip: Pin repositories on your GitHub profile to highlight your top work. If you want, I can add a Projects section with short descriptions for each pinned repo.
+### 📊 GitHub Stats  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Connect
-- GitHub: https://github.com/diyakotru
-- (Optional) Email: your-email@example.com
-- (Optional) Portfolio / Website: https://your-website.example
-- (Optional) LinkedIn: https://www.linkedin.com/in/your-linkedin
-- (Optional) Twitter: https://twitter.com/yourhandle
-
-Replace or remove the optional items with the contact details you want shown.
+### 🌐 Connect With Me  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logColor=white)](mailto:yourmail@gmail.com)
 
 ---
 
-## 📈 Optional GitHub Cards
-If you'd like live GitHub stats or a languages card, uncomment or add these images (example for username diyakotru):
-- GitHub stats: `https://github-readme-stats.vercel.app/api?username=diyakotru&show_icons=true&theme=tokyonight`
-- Top languages: `https://github-readme-stats.vercel.app/api/top-langs/?username=diyakotru&layout=compact&theme=tokyonight`
-
-Add the corresponding markdown image tags to display them.
-
----
-
-## ⚙️ How to customize
-1. Replace placeholder contact links and the optional lists with your exact details.
-2. Add pinned repositories or short highlights in the Projects section.
-3. Update the "Frameworks & libraries" and tools to match what you use day-to-day.
-4. If you want, I can generate the final README with your exact links and enabled stats/cards.
-
----
-
-## ⚖️ License
-This README template is free to reuse and adapt. Add an explicit license line if you want (e.g., MIT).
+⭐ *“Keep learning, keep building, and keep growing!”* 🌱  
