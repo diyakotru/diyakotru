@@ -53,13 +53,6 @@ I actively participate in open-source communities, contributing to repositories 
 
 ---
 
-## 🏆 Achievements & Highlights
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=diyakotru&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/diyakotru">
